@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dagger_2_Demo.iml" filepath="$PROJECT_DIR$/Dagger_2_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dagger2/dagger2.iml" filepath="$PROJECT_DIR$/dagger2/dagger2.iml" />
+    </modules>
+  </component>
+</project>
